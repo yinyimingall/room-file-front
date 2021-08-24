@@ -1,0 +1,28 @@
+.LoginContainer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.LoginForm {
+    transform: translateY(-4rem);
+}
+.LoginTitle {
+    margin: 0;
+    color: #2b56e2;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.inputGroup {
+    margin-bottom: 1.5rem;
+}
+.inputGroup input{
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.inputTitle {
+    display: inline-block;
+    margin-bottom: 0.2rem;
+}

@@ -1,0 +1,17 @@
+.button {
+    display: inline-block;
+    width: 16rem;
+    height: 2rem;
+    color: #fff;
+    background-color: #2b56e2;
+    border: 1px solid #2b56e2;
+    border-radius: 1rem;
+    outline: none;
+    cursor: pointer;
+    transition: all ease-in-out .3s;
+}
+
+.button:hover {
+    box-shadow:0 0 8px #3d69fd;
+    border: 1px solid #3d69fd;
+}
